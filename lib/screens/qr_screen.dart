@@ -34,10 +34,7 @@ class _QRScreenState extends State<QRScreen> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Text(
-                  "GOOD LOOK",
-                  style: TextStyle(fontWeight: FontWeight.w700, fontSize: 24),
-                ),
+                
                 // ✅ Fixed QR area to avoid shifting
                 SizedBox(
                   height: 300,
