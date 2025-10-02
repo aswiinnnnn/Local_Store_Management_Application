@@ -77,9 +77,9 @@ The app is designed with a focus on **tailoring shop management**, providing spe
 
 
 <p align="center">
-  <img src="1.jpg" alt="Home" width="300"/>
-  <img src="2.jpg" alt="Profile" width="300"/>
-  <img src="3.jpg" alt="Analytics" width="300"/>
+  <img src="1.jpg" alt="Home" width="200"/>
+  <img src="2.jpg" alt="Profile" width="200"/>
+  <img src="3.jpg" alt="Analytics" width="200"/>
 </p>
 
 ![Screenshot 4](4.png)
