@@ -76,9 +76,12 @@ The app is designed with a focus on **tailoring shop management**, providing spe
 ## 📸 Screenshots
 
 
-![Screenshot 1](1.png)
-![Screenshot 2](2.png)
-![Screenshot 3](3.png)
+<p align="center">
+  <img src="1.jpg" alt="Home" width="300"/>
+  <img src="2.jpg" alt="Profile" width="300"/>
+  <img src="3.jpg" alt="Analytics" width="300"/>
+</p>
+
 ![Screenshot 4](4.png)
 
 
