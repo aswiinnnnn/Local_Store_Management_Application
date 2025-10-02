@@ -75,22 +75,12 @@ The app is designed with a focus on **tailoring shop management**, providing spe
 
 ## 📸 Screenshots
 
-> **Note**: Add screenshots of the following screens to showcase the app's features:
->
-> - Main Orders Screen with filter chips
-> - Create Order Screen with measurement forms
-> - Profile Screen with income charts
-> - Order Details Bottom Sheet
-> - QR Code Payment Screen
-> - Settings/Import-Export Screen
->
-> Example structure:
+
 > ```
-> ![Orders Screen](screenshots/orders_screen.png)
-> ![Create Order](screenshots/create_order.png)
-> ![Income Charts](screenshots/income_charts.png)
-> ![Order Details](screenshots/order_details.png)
-> ![QR Payment](screenshots/qr_payment.png)
+> ![Orders Screen](2.png)
+> ![Create Order](1.png)
+> ![Income Charts](3.png)
+> ![](4.png)
 > ```
 
 ---
